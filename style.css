@@ -1,0 +1,10 @@
+#speed{
+    float:left;
+
+}
+#volume{
+    float:right;
+}
+body{
+    background-size: cover;
+}
